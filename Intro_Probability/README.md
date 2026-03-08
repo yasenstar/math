@@ -7,4 +7,4 @@
 
 <img src="img/Intro_Probability.png" alt="content level1" width="600">
 
-By book in [Amazon](https://www.amazon.ca/Introduction-Probability-Dimitri-P-Bertsekas/dp/188652923X/)
+Buy book in [Amazon](https://www.amazon.ca/Introduction-Probability-Dimitri-P-Bertsekas/dp/188652923X/)
